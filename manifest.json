@@ -1,1 +1,13 @@
-{"data_version":1,"game_version":"3.5"}
+{
+    "data_version":1,
+    "game_version":"3.5",
+    "valid_files":[
+        "amber_l.csv",
+        "amber_t.csv",
+        "weapon_1_3.csv",
+        "weapon_4.csv",
+        "weapon_5.csv",
+        "weapon_addition.csv",
+        "weapon_base.csv"
+    ]
+}
